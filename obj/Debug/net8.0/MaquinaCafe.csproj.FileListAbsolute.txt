@@ -1,0 +1,28 @@
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.exe
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.deps.json
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.runtimeconfig.json
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.dll
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.pdb
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfoInputs.cache
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfo.cs
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.dll
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\refint\MaquinaCafe.dll
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.pdb
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.genruntimeconfig.cache
+F:\TODO\ITLA Trabajos\Septimo Cuatrimestre\Introducción a la Ingenieria de Software\MaquinaCafe\obj\Debug\net8.0\ref\MaquinaCafe.dll
+C:\Users\mende\MaquinaCafe\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.exe
+C:\Users\mende\MaquinaCafe\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.deps.json
+C:\Users\mende\MaquinaCafe\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.runtimeconfig.json
+C:\Users\mende\MaquinaCafe\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.dll
+C:\Users\mende\MaquinaCafe\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.dll
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\refint\MaquinaCafe.dll
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.genruntimeconfig.cache
+C:\Users\mende\MaquinaCafe\MaquinaCafe\obj\Debug\net8.0\ref\MaquinaCafe.dll
